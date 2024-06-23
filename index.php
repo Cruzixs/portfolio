@@ -27,7 +27,7 @@
     <!-- Content here -->
      <div class="section1">
         <div class="text">Hello There! I'm Justine Belga Cruz</div>
-        <div class = "text">Computer Engineer</div>
+        <div class = "text2">Computer Engineer</div>
      </div>
      <div class="section2">
         <div class="text"></div>

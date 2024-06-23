@@ -138,8 +138,6 @@ body {
 
 }
 .text2  {
-
-    top: 50%;
     left: 40%;
     position: absolute;
     font-family: 'Franklin Gothic Heavy';
@@ -147,6 +145,4 @@ body {
     text-shadow: 2px 2px 5px black, 
     5px 5px 70px whitesmoke;
     transform: scale(1,1.1) translate(-50%, 10%);
-
-
 }
